@@ -2,12 +2,12 @@
 
 I'm a London based software developer with a background in Games Design, currently completing my 12 week _Nology full stack bootcamp.
 
-I enjoy:
+### I enjoy:
 - CSS/SASS
 - React
 - Typescript
 
-  My previous projects:
+### My previous projects:
 - [Portfolio](https://koji47.github.io/Portfolio/)
 - [Brick Breaker](https://koji47.github.io/typescript-game-project/)
 - [PunkApi](https://koji47.github.io/react-punk-api/)
