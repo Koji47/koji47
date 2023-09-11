@@ -7,6 +7,12 @@ I enjoy:
 - React
 - Typescript
 
+  My previous projects:
+- [Portfolio](https://koji47.github.io/Portfolio/)
+- [Brick Breaker](https://koji47.github.io/typescript-game-project/)
+- [PunkApi](https://koji47.github.io/react-punk-api/)
+- [Calculator](https://koji47.github.io/calculator-project/)
+
 ##
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Java
