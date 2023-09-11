@@ -2,6 +2,12 @@
 
 I'm a London based software developer with a background in Games Design, currently completing my 12 week _Nology full stack bootcamp.
 
+I enjoy:
+
+CSS/SASS
+React
+Typescript
+
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: chulong@hotmail.co.uk
