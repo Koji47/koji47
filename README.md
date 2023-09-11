@@ -7,7 +7,7 @@ I enjoy:
 - React
 - Typescript
 
-## I am:
+##
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: chulong@hotmail.co.uk
