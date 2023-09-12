@@ -1,4 +1,4 @@
-# Hi I'm Chu, a Junior Software Developer at nology
+# Hi I'm Chu, a Junior Software Developer at _Nology
 
 I'm a London based software developer with a background in Games Design, currently completing my 12 week _Nology full stack bootcamp.
 
