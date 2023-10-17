@@ -13,6 +13,15 @@ I'm a London based software developer with a background in Games Design, current
 - [PunkApi](https://koji47.github.io/react-punk-api/)
 - [Calculator](https://koji47.github.io/calculator-project/)
 
+---
+
+### :chart_with_upwards_trend: Stats    
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Koji47&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Koji47&theme=github_dark)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koji47&theme=github_dark)
+
+---
+
 ##
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Java
